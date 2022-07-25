@@ -60,6 +60,7 @@
       // console.log(typeof xml)
       let song = xml.getElementsByTagName('song');
       let content = document.getElementById('content');
+      content.innerHTML = "";
       for (let i = 0; i < song.length; i++) {
         content.innerHTML += `
         <tr>
