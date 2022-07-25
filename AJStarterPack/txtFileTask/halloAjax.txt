@@ -1,0 +1,3 @@
+Hi there, this content will be brought to your screen using AJAX.
+No matter if it is another line :-)
+This is a new info
