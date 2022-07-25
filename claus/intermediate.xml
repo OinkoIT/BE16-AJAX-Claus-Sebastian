@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<songs>
+   <song id="101">
+        <artist>Kishi Bashi</artist>
+        <title>Carry on Phenomenon</title>
+        <album>Lighght</album>
+   </song>
+   <song id="102">
+        <artist>C. Tangana</artist>
+        <title>Demasiadas Mujeres</title>
+        <album>El Madrileno</album>
+   </song>
+   <song id="103">
+        <artist>Los Lobos</artist>
+        <title>Kiko and the Lavender Moon</title>
+        <album>Kiko</album>
+   </song>
+   <song id="104">
+        <artist>Caribou</artist>
+        <title>Never Come Back</title>
+        <album>Suddenly</album>
+   </song>  
+    <song id="105">
+        <artist>Mar Malade</artist>
+        <title>Clocks</title>
+        <album>Clocks</album>
+   </song>
+   <song id="106">
+        <artist>International Music</artist>
+        <title>Museum</title>
+        <album>Ententraum</album>
+   </song>
+   <song id="107">
+        <artist>Naked Cameo</artist>
+        <title>Phony</title>
+        <album>Of Two Minds</album>
+   </song>
+   <song id="108">
+        <artist>Stromae</artist>
+        <title>Fils de joie</title>
+        <album>Multitude</album>
+   </song>
+</songs>
